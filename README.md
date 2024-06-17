@@ -12,7 +12,7 @@ Bootstrap: Front-end framework for responsive design.
 DataTables: jQuery plugin for enhanced table features.
 Installation and Setup
 Clone the Repository
-git clone https://github.com/yourusername/inote-crud-php.git
+git clone https://github.com/Saurabhcse9/Store-Your-Notes.git
 
 Navigate to the Project Directory
 cd inote-crud-php
